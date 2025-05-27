@@ -7,14 +7,14 @@ Original file is located at
     https://colab.research.google.com/drive/1KDn_P_2qpD-BdiYvnO8Mo5aN-Ro-45dQ
 """
 
-!pip install streamlit
-!pip install joblib
-!pip install numpy
-!pip install pandas
-!pip install matplotlib
-!pip install seaborn
-!pip install sklearn
-!pip install imblearn
+#!pip install streamlit
+#!pip install joblib
+#!pip install numpy
+#!pip install pandas
+#!pip install matplotlib
+#!pip install seaborn
+#!pip install sklearn
+#!pip install imblearn
 
 import streamlit as st
 import joblib
